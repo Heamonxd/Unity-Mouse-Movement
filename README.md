@@ -1,3 +1,3 @@
-# Unity-Mouse-Movement
+# Unity-Keyboard-Movement
 SCRIPT for Unity Movement
 C#
